@@ -1,6 +1,6 @@
 # Hi, I'm Jamie 👋
 
-### Chartered Engineer with experience in Cloud & Software Engineering
+### Chartered Engineer with Experience in Cloud & Software Engineering
 
 I combine 20+ years of engineering, reliability and technical leadership
 experience with postgraduate Computer Science and hands-on cloud development.
