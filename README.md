@@ -8,7 +8,7 @@ experience with postgraduate Computer Science and hands-on cloud development.
 
 ## 🚀 About Me
 
-- 🎓 MSc Computer Science – University of Bath
+- 🎓 MSc Computer Science – University of Bath (Expected April 2027)
 - ⚙️ Chartered Mechanical Engineer
 - 🏅 Fellow of the Institution of Mechanical Engineers
 - ☁️ Microsoft Azure Certified
