@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jamie 👋
 
-<!--
-**JC-Dev-Creator/JC-Dev-Creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Chartered Engineer transitioning into Cloud & Software Engineering
 
-Here are some ideas to get you started:
+I combine 20+ years of engineering, reliability and technical leadership
+experience with postgraduate Computer Science and hands-on cloud development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 MSc Computer Science – University of Bath
+- ⚙️ Chartered Mechanical Engineer
+- 🏅 Fellow of the Institution of Mechanical Engineers
+- ☁️ Microsoft Azure Certified
+- 🐍 Building Python, Azure and Infrastructure-as-Code projects
+- 🏗️ Interested in Cloud, Software Engineering and Solution Architecture
